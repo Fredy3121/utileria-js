@@ -111,7 +111,7 @@ function fun(){
       // Despliegue en Modal si pasa todas las validaciones
       if (valido) {
         const monedaFormateada = formatearMoneda(salario.value, 'MXN');
-        modalBadge.textContent = '🎂';
+        modalBadge.src = 'img/image.png';
         modalTitulo.textContent = `¡Hola, ${nombre.value}!`;
         modalMensaje.innerHTML = `
           Tu registro ha sido completado con éxito.<br><br>

@@ -120,4 +120,6 @@ console.log(formatearMoneda(249.99, "USD")); // "$249.99 USD"
 ```markdown
 ![Pruebas de formulario](img/captura1.png)
 ![Campos del formulario](img/captura2.png)
+![Prueba del login](img/captura3.png)
+![Campos del login](img/captura4.png)
 ```
