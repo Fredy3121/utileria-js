@@ -116,7 +116,6 @@ console.log(formatearMoneda(249.99, "USD")); // "$249.99 USD"
 
 ## Evidencias de Pruebas en Consola
 
-Coloca dentro de la carpeta `/img` tus capturas tomadas de la consola de desarrollador (`F12`):
 
 ```markdown
 ![Pruebas de formulario](img/captura1.png)
